@@ -22,8 +22,8 @@ relic-alert/
 ├── data/
 │   ├── generate_data.py      ← generates the synthetic dataset
 │   └── alarm_logs.csv        ← the dataset (created after you run the script)
-├── build_notebook.py         ← internal script that built the notebook (no need to run)
-└── relic_alert.ipynb         ← 🎯 the main notebook — open and work through this
+├── build_notebook.py  SKIPPED       ← internal script that built the notebook (no need to run)
+└── relic_alert.ipynb RENAME - training.py        ← 🎯 the main notebook — open and work through this
 ```
 
 ---
